@@ -1,0 +1,42 @@
+body {
+    background-color: #e5e5e5;
+}
+
+#titulo {
+    text-align: center;
+    font-family: Roboto,sans-serif;
+    font-size: 3rem;
+    margin-top: 6%;
+    width: 100%;
+}
+
+#texto {
+    text-align: center;
+    font-family: Roboto,sans-serif;
+    font-size: 1rem;
+    width: 100%;
+}
+
+#primeiro {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+}
+
+#segundo {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+}
+
+#terceiro {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+}
+
+#quarto {
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 1.25rem;
+}
